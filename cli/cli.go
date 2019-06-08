@@ -5,7 +5,7 @@ import (
 	"os"
 	"path"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	"github.com/bitrise-tools/releaseman/releaseman"
 	"github.com/bitrise-tools/releaseman/version"
 	"github.com/codegangsta/cli"

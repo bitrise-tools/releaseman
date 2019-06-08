@@ -7,7 +7,7 @@
 	],
 	"Deps": [
 		{
-			"ImportPath": "github.com/Sirupsen/logrus",
+			"ImportPath": "github.com/sirupsen/logrus",
 			"Comment": "v0.11.0-35-g61e43dc",
 			"Rev": "61e43dc76f7ee59a82bdf3d71033dc12bea4c77d"
 		},

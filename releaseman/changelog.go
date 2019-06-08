@@ -8,7 +8,7 @@ import (
 	"text/template"
 	"time"
 
-	log "github.com/Sirupsen/logrus"
+	log "github.com/sirupsen/logrus"
 	"github.com/bitrise-io/go-utils/fileutil"
 	"github.com/bitrise-tools/releaseman/git"
 )
